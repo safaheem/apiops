@@ -1,0 +1,6 @@
+apimServiceName: [prod or any other target environment apim instance name goes here]
+namedValues:
+  - name: environment
+    properties:
+      displayName: environment
+      value: "prod"
