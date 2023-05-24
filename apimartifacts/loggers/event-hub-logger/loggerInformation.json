@@ -1,0 +1,11 @@
+{
+  "properties": {
+    "credentials": {
+      "name": "evhns-dev-cu-hol-sf-01/evh-logger-dev-cu-hol-sf-01",
+      "connectionString": "{{Logger-Credentials--645dc2ba217d200c9c8ea277}}"
+    },
+    "description": "adding a new logger",
+    "isBuffered": true,
+    "loggerType": "azureEventHub"
+  }
+}

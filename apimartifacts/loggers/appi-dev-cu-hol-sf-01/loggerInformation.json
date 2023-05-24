@@ -1,0 +1,10 @@
+{
+  "properties": {
+    "credentials": {
+      "instrumentationKey": "{{Logger-Credentials--645dbc6d217d200c9c8ea271}}"
+    },
+    "isBuffered": true,
+    "loggerType": "applicationInsights",
+    "resourceId": "/subscriptions/870770ba-da3e-47e6-9d98-8120ab4a3f4a/resourceGroups/rg-dev-cu-hol-sf-01/providers/microsoft.insights/components/appi-dev-cu-hol-sf-01"
+  }
+}
