@@ -1,0 +1,22 @@
+{
+  "properties": {
+    "apiRevision": "2",
+    "apiRevisionDescription": "Adding a caching policy",
+    "apiVersion": "v2",
+    "apiVersionSetId": "/subscriptions/870770ba-da3e-47e6-9d98-8120ab4a3f4a/resourceGroups/rg-dev-cu-hol-sf-01/providers/Microsoft.ApiManagement/service/apim-dev-cu-hol-sf-01/apiVersionSets/645db50a7f053918ff7b9723",
+    "authenticationSettings": {},
+    "description": "",
+    "displayName": "Star Wars",
+    "isCurrent": true,
+    "path": "sw",
+    "protocols": [
+      "https"
+    ],
+    "serviceUrl": "https://swapi.dev/api",
+    "subscriptionKeyParameterNames": {
+      "header": "Ocp-Apim-Subscription-Key",
+      "query": "subscription-key"
+    },
+    "subscriptionRequired": true
+  }
+}
