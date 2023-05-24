@@ -1,0 +1,6 @@
+apimServiceName: apim315
+namedValues:
+  - name: environment
+    properties:
+      displayName: prod
+
